@@ -1,0 +1,48 @@
+body{
+   font-size: 45px;
+}
+p.green{
+    color: red;
+}
+p.red{
+    color: red;
+}
+ol.ulalis{
+    font-style: italic;
+}
+ol.bolb{
+    font-weight: bold ;
+}
+li.aguamarine{
+    color: aquamarine;
+}
+li.red{
+    color: red;
+}
+ li.green {
+    color: green;
+}
+span.x-larger{
+    font-size: 89px;
+}
+ span.x-small{
+    font-size: 23px;
+}
+span.small{
+    font-size: size 32px; ;
+}
+span.lage{
+    font-size: 67px;
+}
+span.langer{
+    font-size: size 77px;
+}
+span.medial{
+   font-size: size 54px; 
+}
+span.xx-large{
+    font-size: size 99px;
+}
+span.medial{
+    font: size 34px; 
+}

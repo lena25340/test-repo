@@ -1,0 +1,15 @@
+h1{
+font-size: xx-large;
+}
+h2{
+    font-size: medium;
+}
+h6{
+    font-size: xx-small;
+}
+p.strong{
+font-family: bold;
+}
+p.ilatic{
+    font-family: initial;
+}
